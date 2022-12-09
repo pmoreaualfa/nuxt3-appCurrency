@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>{{ coin.name }} Detail Page</h2>
+    <h1>{{ coin.name }} Detail Page</h1>
     <table border="1 px solid">
       <thead>
         <th>Symbol</th>
